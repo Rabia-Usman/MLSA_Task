@@ -37,7 +37,7 @@ const projectList = [
     url: "https://rabia-usman.github.io/Tourism-Management-System/",
   },
   {
-    title: "Phone Directory App",
+    title: "Predicting the House Price using Python and SKLearn",
     description:
       "Predicting the house price by using Python, Machine Learning and SKLearn",
     url: "https://www.youtube.com/watch?v=6YBeKSSOV6s&ab_channel=RabiaUsmanprogrammer",
