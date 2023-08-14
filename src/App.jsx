@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "in/rabia-usman-b6594622a/",
   medium: "@rabiausmann1",
   twitter: "RabiaUsmann?t=Z8VENqkQc9V0UnKkgYMSrA&s=09",
-  youTube: "channel/UCRH3bzZDBqs8KhiAqVCgajg",
+  youTube: "UCRH3bzZDBqs8KhiAqVCgajg",
 };
 
 const primaryColor = "#4E567E";
