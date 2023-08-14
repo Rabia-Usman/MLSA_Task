@@ -27,12 +27,12 @@ const siteProps = {
   name: "Rabia Usman",
   title: "Web Developer & Content Creator",
   email: "rabiausmann1@gmail.com",
-  gitHub: "https://github.com/Rabia-Usman",
-  instagram: "https://instagram.com/twilightingthelife?igshid=ZDdkNTZiNTM=",
-  linkedIn: "https://www.linkedin.com/in/rabia-usman-b6594622a/",
-  medium: "https://medium.com/@rabiausmann1",
-  twitter: "https://twitter.com/RabiaUsmann?t=Z8VENqkQc9V0UnKkgYMSrA&s=09",
-  youTube: "https://www.youtube.com/channel/UCRH3bzZDBqs8KhiAqVCgajg",
+  gitHub: "Rabia-Usman",
+  instagram: "twilightingthelife?igshid=ZDdkNTZiNTM=",
+  linkedIn: "in/rabia-usman-b6594622a/",
+  medium: "@rabiausmann1",
+  twitter: "RabiaUsmann?t=Z8VENqkQc9V0UnKkgYMSrA&s=09",
+  youTube: "channel/UCRH3bzZDBqs8KhiAqVCgajg",
 };
 
 const primaryColor = "#4E567E";
